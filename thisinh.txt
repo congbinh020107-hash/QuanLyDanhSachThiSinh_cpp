@@ -1,0 +1,331 @@
+079207012345|Nguyen Van An|Nam|15/03/2007|TP Ho Chi Minh
+087207416512|Pham Thanh An|Nam|11/11/2007|Dong Thap
+089206259876|Nguyen Minh An|Nam|26/10/2006|An Giang
+060207341880|Doan Van An|Nam|10/11/2007|Binh Thuan
+096206317350|Hoang Quoc An|Nam|03/06/2006|Ca Mau
+093307873381|Lam Thuy Tuong Anh|Nu|11/03/2007|Hau Giang
+001307171767|Tran Kim Phuong Anh|Nu|25/06/2007|Ha Noi
+068206301063|Quach Anh An|Nam|29/11/2006|Lam Dong
+094207235770|Ta Trung Nhat An|Nam|25/12/2007|Soc Trang
+094306495853|Chau Yen Khanh Anh|Nu|20/08/2006|Soc Trang
+074207820335|Ho Gia An|Nam|12/12/2007|Binh Duong
+048306495360|Doan Diem Anh|Nu|20/11/2006|Da Nang
+046206005882|Le Minh Duc An|Nam|02/01/2006|Hue
+094207630628|Duong Van Duc An|Nam|19/12/2007|Soc Trang
+048207768288|Lam Trung An|Nam|17/10/2007|Da Nang
+040207701590|Quach Dang Tuan An|Nam|11/09/2007|Nghe An
+060307560586|Ton Thanh Anh|Nu|15/11/2007|Binh Thuan
+001307023456|Tran Thi Binh|Nu|22/07/2007|Ha Noi
+074207747502|Lam Minh Binh|Nam|03/11/2007|Binh Duong
+066206834937|Mai Anh Bao|Nam|10/01/2006|Dak Lak
+049206053851|Nguyen Nhat Binh|Nam|01/01/2006|Quang Nam
+093206461788|Do Quoc Bao|Nam|05/02/2006|Hau Giang
+056206359577|Thai Trung Binh|Nam|24/04/2006|Khanh Hoa
+080206845102|Truong Quoc Binh|Nam|14/10/2006|Long An
+048206475126|Do Minh Bao|Nam|01/01/2006|Da Nang
+048207034567|Le Hoang Cuong|Nam|09/11/2007|Da Nang
+075206014544|Mai Tuan Gia Cuong|Nam|09/05/2006|Dong Nai
+064307446823|Cao My Chi|Nu|07/10/2007|Gia Lai
+046306986681|Trinh My Chi|Nu|26/05/2006|Hue
+038306768017|Vo Thi Chi|Nu|17/10/2006|Thanh Hoa
+054306329123|Ho Tuong Chi|Nu|08/05/2006|Phu Yen
+048207494280|Huynh Cong Van Cuong|Nam|21/10/2007|Da Nang
+001206330476|Doan Anh Cuong|Nam|01/09/2006|Ha Noi
+092207546912|Bui Anh Cong Cuong|Nam|23/02/2007|Can Tho
+031307984390|Nguyen Ngoc Tuong Chi|Nu|29/12/2007|Hai Phong
+092307045678|Pham Thi Dung|Nu|30/01/2007|Can Tho
+075207056789|Hoang Van Duc|Nam|18/05/2007|Dong Nai
+054207791184|Tran Cong Dat|Nam|21/06/2007|Phu Yen
+068207360382|Lam Dang Dat|Nam|18/04/2007|Lam Dong
+094207399069|Phan Tuan Dat|Nam|02/10/2007|Soc Trang
+054207259026|Dang Cong Dung|Nam|18/02/2007|Phu Yen
+046207231668|Huynh Cong Duc|Nam|01/09/2007|Hue
+086307152720|Quach Thanh Dung|Nu|29/03/2007|Vinh Long
+080307252833|Chau Yen Dung|Nu|27/04/2007|Long An
+077207624624|Vu Trung Dat|Nam|16/01/2007|Ba Ria - Vung Tau
+001207523192|Phan Ngoc Dung|Nam|17/08/2007|Ha Noi
+046307245300|Ngo Gia Dung|Nu|14/06/2007|Hue
+060206170897|Ngo Nhat Dat|Nam|30/12/2006|Binh Thuan
+095207263589|Ha Tuan Duc Duc|Nam|04/11/2007|Bac Lieu
+092307970946|Ton Hong Dung|Nu|05/05/2007|Can Tho
+001206697506|Do Trung Tuan Dat|Nam|16/05/2006|Ha Noi
+084206853922|Lam Minh Thanh Duc|Nam|09/07/2006|Tra Vinh
+038207328005|Quach Cong Dung|Nam|10/01/2007|Thanh Hoa
+052207140021|Ton Ngoc Duc|Nam|02/12/2007|Binh Dinh
+038206088229|Nguyen Quoc Dung|Nam|12/01/2006|Thanh Hoa
+068206227854|Ly Trung Anh Duc|Nam|28/05/2006|Lam Dong
+048307895092|Hoang Diem Thuy Dung|Nu|19/05/2007|Da Nang
+040207791806|Do Trung Dat|Nam|26/12/2007|Nghe An
+075206951514|Lam Ngoc Dat|Nam|14/09/2006|Dong Nai
+040307647046|Hoang Thi Dung|Nu|27/03/2007|Nghe An
+068207221879|Le Thanh Dat|Nam|24/02/2007|Lam Dong
+072307067890|Vu Thi Giang|Nu|12/09/2007|Tay Ninh
+091306677665|Ho Thi Giang|Nu|27/01/2006|Kien Giang
+056306631775|Vu Hong Giang|Nu|28/01/2006|Khanh Hoa
+046307420172|Cao Diem Giang|Nu|04/02/2007|Hue
+066207078901|Dang Minh Hieu|Nam|03/12/2007|Dak Lak
+038307089012|Bui Thi Hoa|Nu|27/04/2007|Thanh Hoa
+040207090123|Do Quang Huy|Nam|14/08/2007|Nghe An
+056307101234|Ngo Thi Huong|Nu|21/02/2007|Khanh Hoa
+096307381201|Dang Kim Hanh|Nu|28/01/2007|Ca Mau
+052207841533|Le Anh Hai|Nam|14/02/2007|Binh Dinh
+056207545291|Ha Dang Hung|Nam|26/07/2007|Khanh Hoa
+040306168181|Quach Thi Hanh|Nu|29/09/2006|Nghe An
+064207636753|Trinh Trung Hung|Nam|25/06/2007|Gia Lai
+040307373263|Pham Thi Hanh|Nu|14/01/2007|Nghe An
+031306309635|Dang Thi Han|Nu|29/03/2006|Hai Phong
+001206188348|Ha Ngoc Hai|Nam|17/12/2006|Ha Noi
+052307715188|Ho Bao Huong|Nu|24/02/2007|Binh Dinh
+040306836045|Dinh Khanh Hanh|Nu|05/12/2006|Nghe An
+072206176344|Nguyen Quoc Hai|Nam|13/02/2006|Tay Ninh
+092306567983|Le Tuong Han|Nu|27/08/2006|Can Tho
+042206010994|Pham Anh Hoang Hai|Nam|24/05/2006|Ha Tinh
+051306786949|Bui Tuong Hoa|Nu|22/04/2006|Quang Ngai
+083306675848|Trinh Phuong Hoa|Nu|05/07/2006|Ben Tre
+082307130667|Ton Yen Huong|Nu|20/06/2007|Tien Giang
+074307552956|Ta Thanh Hoa|Nu|18/01/2007|Binh Duong
+094306678380|Cao Phuong Han|Nu|11/11/2006|Soc Trang
+075306951931|Tran Bao Hong Hanh|Nu|23/02/2006|Dong Nai
+060207874474|Ha Minh Hung|Nam|05/01/2007|Binh Thuan
+092306071838|Ngo Bao Thanh Hanh|Nu|13/10/2006|Can Tho
+040307653483|Ly Phuong Thuy Huong|Nu|03/08/2007|Nghe An
+038306270983|Tran Bao Hong Hanh|Nu|10/04/2006|Thanh Hoa
+093206489170|Le Thanh Ngoc Hieu|Nam|20/05/2006|Hau Giang
+052206070822|Lam Quoc Hung|Nam|20/04/2006|Binh Dinh
+066306537082|Quach Khanh Huong|Nu|22/08/2006|Dak Lak
+096307046324|Hoang Hong Hoa|Nu|01/12/2007|Ca Mau
+075307866269|Chau Thanh Hanh|Nu|21/12/2007|Dong Nai
+075307665930|Dang Gia Diem Hanh|Nu|09/07/2007|Dong Nai
+079307654157|Trinh My Hoa|Nu|04/08/2007|TP Ho Chi Minh
+094207460550|Do Tuan Huy|Nam|15/05/2007|Soc Trang
+080206076329|Do Tuan Dang Hieu|Nam|07/04/2006|Long An
+049307095212|Doan Ngoc Hoa|Nu|30/12/2007|Quang Nam
+070207937686|Cao Anh Quoc Huy|Nam|23/01/2007|Binh Phuoc
+052306654298|Ha Yen Hoa|Nu|21/09/2006|Binh Dinh
+042207689884|Cao Hoang Hieu|Nam|20/11/2007|Ha Tinh
+001206515750|Dang Cong Thanh Huy|Nam|08/05/2006|Ha Noi
+094307796659|Pham Bao Huong|Nu|24/05/2007|Soc Trang
+054307477491|Truong Phuong Thuy Huong|Nu|29/05/2007|Phu Yen
+054206200289|Chau Anh Hung|Nam|07/10/2006|Phu Yen
+049207501946|Vu Minh Hieu|Nam|05/06/2007|Quang Nam
+093207535319|Dinh Thanh Duc Huy|Nam|05/06/2007|Hau Giang
+072207006558|Do Nguyen Dang Khoi|Nam|28/02/2007|Tp Ho Chi Minh
+080207112345|Duong Van Khanh|Nam|06/06/2007|Long An
+052207732245|Thai Trung Khanh|Nam|26/09/2007|Binh Dinh
+048206204990|Bui Thanh Nhat Kiet|Nam|13/09/2006|Da Nang
+072206880335|Ly Anh Khanh|Nam|19/11/2006|Tay Ninh
+075207399715|Hoang Huu Minh Kiet|Nam|04/08/2007|Dong Nai
+056207588565|Chau Thanh Cong Khanh|Nam|11/04/2007|Khanh Hoa
+049207139706|Ta Thanh Khanh|Nam|02/05/2007|Quang Nam
+068207537178|Ha Gia Khanh|Nam|12/04/2007|Lam Dong
+089206630057|Truong Hoang Khanh|Nam|30/01/2006|An Giang
+038207040263|Luong Duc Khanh|Nam|01/11/2007|Thanh Hoa
+001206151708|Pham Gia Anh Khanh|Nam|07/01/2006|Ha Noi
+031206121628|Quach Quoc Kiet|Nam|07/09/2006|Hai Phong
+084206410272|Vo Tuan Khang|Nam|20/04/2006|Tra Vinh
+064206971506|Bui Anh Khanh|Nam|17/04/2006|Gia Lai
+074206327666|Le Cong Khang|Nam|17/10/2006|Binh Duong
+052206842022|Bui Hoang Kiet|Nam|08/04/2006|Binh Dinh
+082307123456|Ly Thi Lan|Nu|19/10/2007|Tien Giang
+089207134567|Trinh Van Long|Nam|01/01/2007|An Giang
+093206821426|Truong Trung Lam|Nam|29/04/2006|Hau Giang
+072307116115|Ton Tuong Ly|Nu|01/04/2007|Tay Ninh
+066306752151|Nguyen My Lan|Nu|17/12/2006|Dak Lak
+046307196292|Huynh Hong Linh|Nu|13/02/2007|Hue
+066207947395|Huynh Minh Long|Nam|23/03/2007|Dak Lak
+064306216395|Phan Thanh Ngoc Ly|Nu|08/06/2006|Gia Lai
+089207121480|Phan Hoang Lam|Nam|07/02/2007|An Giang
+080307490848|Huynh Thuy Khanh Lan|Nu|09/07/2007|Long An
+079307465650|Hoang Hong My Linh|Nu|13/03/2007|TP Ho Chi Minh
+086206325693|Ta Gia Lam|Nam|08/07/2006|Vinh Long
+093306104379|Pham Ngoc Ly|Nu|21/08/2006|Hau Giang
+096306977986|Dang Bao Ly|Nu|08/12/2006|Ca Mau
+060307199407|Nguyen Diem Ly|Nu|18/06/2007|Binh Thuan
+079307188077|Lam Ngoc Ly|Nu|13/05/2007|TP Ho Chi Minh
+086307035657|Phan Bao Bao Lan|Nu|28/06/2007|Vinh Long
+079306894239|Nguyen Thuy Ly|Nu|28/03/2006|TP Ho Chi Minh
+060207593710|Vu Thanh Cong Lam|Nam|19/11/2007|Binh Thuan
+086307443786|Luong Gia Yen Linh|Nu|21/10/2007|Vinh Long
+080307908730|Hoang Tuong Linh|Nu|03/05/2007|Long An
+086206943885|Ly Hoang Long|Nam|31/10/2006|Vinh Long
+056307358189|Dinh Khanh Ly|Nu|04/07/2007|Khanh Hoa
+087307145678|Phan Thi Mai|Nu|25/03/2007|Dong Thap
+084207156789|Dinh Cong Minh|Nam|11/07/2007|Tra Vinh
+038307311366|Ngo Thi Mai|Nu|31/12/2007|Thanh Hoa
+096207082824|Chau Hoang Duc Minh|Nam|09/09/2007|Ca Mau
+068306984643|Huynh Tuong Hong Mai|Nu|01/02/2006|Lam Dong
+086307857811|Lam Yen Tuong Mai|Nu|10/08/2007|Vinh Long
+042306924657|Bui Thanh Mai|Nu|21/12/2006|Ha Tinh
+042207782134|Luong Tuan Thanh Minh|Nam|11/11/2007|Ha Tinh
+049307103370|Nguyen Thi Khanh Mai|Nu|14/02/2007|Quang Nam
+094207240975|Ton Gia Dang Minh|Nam|14/01/2007|Soc Trang
+077307481896|Ta Hong Hong Mai|Nu|29/01/2007|Ba Ria - Vung Tau
+075307828350|Lam Thi Mai|Nu|29/04/2007|Dong Nai
+093207739409|Dinh Hoang Minh|Nam|17/02/2007|Hau Giang
+072207030765|Truong Ngoc Minh|Nam|19/08/2007|Tay Ninh
+060207198269|Pham Minh Minh|Nam|17/11/2007|Binh Thuan
+092207185798|Ton Huu Minh|Nam|20/12/2007|Can Tho
+082207736109|Ton Anh Minh|Nam|25/08/2007|Tien Giang
+038206954082|Nguyen Ngoc Minh|Nam|14/12/2006|Thanh Hoa
+077307167890|Ta Thi Nga|Nu|29/09/2007|Ba Ria - Vung Tau
+074207178901|Luong Van Nam|Nam|08/12/2007|Binh Duong
+051307537866|Ta Kim Nhi|Nu|19/07/2007|Quang Ngai
+064306961346|Ton Kim Nhung|Nu|11/05/2006|Gia Lai
+051306984840|Do Thuy Tuong Nhi|Nu|21/10/2006|Quang Ngai
+038207335580|Lam Huu Nghia|Nam|11/05/2007|Thanh Hoa
+064207897756|Ly Duc Tuan Nam|Nam|14/12/2007|Gia Lai
+086306791576|Dinh Khanh Ngan|Nu|22/12/2006|Vinh Long
+064306425093|Pham My Ngan|Nu|06/09/2006|Gia Lai
+089307053595|Ha Ngoc Nhung|Nu|08/01/2007|An Giang
+095307551294|Truong Bao Nhung|Nu|25/06/2007|Bac Lieu
+087307060471|Ngo Bao Nhi|Nu|07/01/2007|Dong Thap
+072307667390|Bui Yen Bao Ngan|Nu|18/07/2007|Tay Ninh
+046306188074|Truong Kim Diem Ngan|Nu|23/04/2006|Hue
+054306535918|Doan Kim Nga|Nu|29/07/2006|Phu Yen
+068307014181|Vu Phuong Nhung|Nu|09/04/2007|Lam Dong
+079206072888|Le Huu Nam|Nam|18/12/2006|TP Ho Chi Minh
+082306015554|Ngo Hong Diem Nhung|Nu|01/10/2006|Tien Giang
+089307676618|Ho My Ngan|Nu|31/12/2007|An Giang
+049206074494|Chau Nhat Nhat Nam|Nam|07/07/2006|Quang Nam
+095206544851|Cao Van Nam|Nam|27/05/2006|Bac Lieu
+079307598562|Trinh Phuong My Nga|Nu|15/06/2007|TP Ho Chi Minh
+082207058745|Nguyen Dang Nhat Nghia|Nam|20/03/2007|Tien Giang
+077207648283|Ho Minh Gia Nam|Nam|24/06/2007|Ba Ria - Vung Tau
+096206024073|Nguyen Cong Nam|Nam|16/06/2006|Ca Mau
+089207956192|Lam Gia Nam|Nam|17/11/2007|An Giang
+080306625647|Lam Yen Ngan|Nu|20/12/2006|Long An
+068307189012|Truong Thi Oanh|Nu|16/04/2007|Lam Dong
+031207190123|Ha Minh Phong|Nam|23/06/2007|Hai Phong
+046307201234|Mai Thi Phuong|Nu|04/02/2007|Hue
+080206980477|Ta Dang Phat|Nam|22/07/2006|Long An
+046307197029|Do Phuong Phuong|Nu|19/11/2007|Hue
+072307847688|Trinh Yen Phuong|Nu|03/02/2007|Tay Ninh
+060207612736|Duong Huu Phong|Nam|25/07/2007|Binh Thuan
+042207541239|Huynh Van Phat|Nam|22/02/2007|Ha Tinh
+038207254754|Trinh Thanh Dang Phong|Nam|09/02/2007|Thanh Hoa
+049306210574|Mai Ngoc Phuong|Nu|05/10/2006|Quang Nam
+051307470685|Tran Phuong Thi Phuong|Nu|17/09/2007|Quang Ngai
+054206362251|Chau Huu Phong|Nam|07/02/2006|Phu Yen
+042207060945|Truong Huu Phong|Nam|10/12/2007|Ha Tinh
+072206230719|Ngo Nhat Phong|Nam|15/03/2006|Tay Ninh
+089207492357|Huynh Gia Phong|Nam|17/10/2007|An Giang
+075207563719|Duong Thanh Dang Phong|Nam|19/11/2007|Dong Nai
+083307431315|Ly My Phuong|Nu|16/06/2007|Ben Tre
+046207450372|Le Van Phat|Nam|24/06/2007|Hue
+077306832655|Hoang Diem Phuong|Nu|10/06/2006|Ba Ria - Vung Tau
+072306662966|Dinh Ngoc Tuong Phuong|Nu|14/12/2006|Tay Ninh
+079207212345|Cao Van Quang|Nam|17/11/2007|TP Ho Chi Minh
+001307223456|Lam Thi Quynh|Nu|31/05/2007|Ha Noi
+064306707058|Ly Thuy Quynh|Nu|23/11/2006|Gia Lai
+056207687491|Quach Anh Tuan Quang|Nam|02/01/2007|Khanh Hoa
+051306616494|Doan Yen Quynh|Nu|08/09/2006|Quang Ngai
+083307377570|Chau Bao Quynh|Nu|11/08/2007|Ben Tre
+040307112682|Ho Thi Quynh|Nu|16/06/2007|Nghe An
+095207373532|Ngo Trung Quang|Nam|18/04/2007|Bac Lieu
+094207394164|Ngo Hoang Quang|Nam|03/04/2007|Soc Trang
+064306205467|Pham Hong Quynh|Nu|19/06/2006|Gia Lai
+068306237429|Thai Diem Gia Quynh|Nu|25/03/2006|Lam Dong
+093207571857|Do Minh Quang|Nam|20/01/2007|Hau Giang
+049306427406|Cao My Thi Quynh|Nu|17/10/2006|Quang Nam
+048207029319|Quach Huu Quang|Nam|24/06/2007|Da Nang
+086307988339|Bui Diem Diem Quynh|Nu|26/02/2007|Vinh Long
+075207234567|Doan Van Son|Nam|13/08/2007|Dong Nai
+082207028505|Le Dang Son|Nam|26/09/2007|Tien Giang
+048206084454|Trinh Minh Son|Nam|10/05/2006|Da Nang
+072206462561|Dinh Anh Van Son|Nam|13/07/2006|Tay Ninh
+070206790193|Vu Quoc Son|Nam|26/09/2006|Binh Phuoc
+092207121798|Do Anh Van Son|Nam|18/09/2007|Can Tho
+080207658556|Duong Ngoc Dang Son|Nam|07/05/2007|Long An
+042207118480|Tran Nhat Son|Nam|15/07/2007|Ha Tinh
+051207854741|Doan Gia Son|Nam|02/09/2007|Quang Ngai
+048206599116|Huynh Nhat Tuan Son|Nam|08/05/2006|Da Nang
+092307245678|Vo Thi Thao|Nu|26/12/2007|Can Tho
+048207256789|Nguyen Duc Thang|Nam|10/03/2007|Da Nang
+079307267890|Tran Thi Thu|Nu|20/09/2007|TP Ho Chi Minh
+040207278901|Le Van Tuan|Nam|05/07/2007|Nghe An
+072206584529|Thai Gia Trung|Nam|11/12/2006|Tay Ninh
+049307489324|Duong Diem Thao|Nu|09/04/2007|Quang Nam
+054306217040|Ly Kim Trang|Nu|19/03/2006|Phu Yen
+082207341614|Vo Thanh Thang|Nam|15/05/2007|Tien Giang
+087307242572|Duong Ngoc Thao|Nu|28/02/2007|Dong Thap
+074306101114|Lam Khanh Bao Trang|Nu|26/02/2006|Binh Duong
+001206324973|Quach Dang Van Thinh|Nam|08/02/2006|Ha Noi
+038306169999|Bui My Phuong Tien|Nu|02/09/2006|Thanh Hoa
+042206029797|Ho Duc Thinh|Nam|06/03/2006|Ha Tinh
+052307903984|Tran Gia Khanh Tam|Nu|08/01/2007|Binh Dinh
+093207834002|Ngo Quoc Thang|Nam|23/09/2007|Hau Giang
+052206588855|Dang Hoang Thinh|Nam|14/06/2006|Binh Dinh
+082207206030|Thai Dang Tai|Nam|11/07/2007|Tien Giang
+083307706862|Vo Bao Trang|Nu|01/07/2007|Ben Tre
+083206062947|Pham Cong Thinh|Nam|12/07/2006|Ben Tre
+084306667177|Ly Yen Tien|Nu|25/01/2006|Tra Vinh
+083206360246|Huynh Trung Tai|Nam|22/08/2006|Ben Tre
+087207030278|Dinh Tuan Hoang Trung|Nam|04/11/2007|Dong Thap
+068206813469|Phan Anh Tuan|Nam|07/09/2006|Lam Dong
+094307558579|Ly Thuy Thu|Nu|21/06/2007|Soc Trang
+082306726643|Hoang Bao Thu|Nu|06/08/2006|Tien Giang
+054207174441|Ngo Tuan Tai|Nam|28/10/2007|Phu Yen
+048206229168|Ha Quoc Gia Tuan|Nam|06/05/2006|Da Nang
+051306049298|Cao Kim Tam|Nu|21/04/2006|Quang Ngai
+056206720068|Do Minh Tai|Nam|28/08/2006|Khanh Hoa
+049307659835|Huynh Kim Thi Thu|Nu|23/02/2007|Quang Nam
+001206681874|Mai Gia Tuan|Nam|22/12/2006|Ha Noi
+068306460092|Pham Khanh Tam|Nu|31/07/2006|Lam Dong
+091307907687|Phan My Thu|Nu|09/12/2007|Kien Giang
+070306702692|Vu Thuy Thao|Nu|06/05/2006|Binh Phuoc
+087306416855|Huynh Hong Thi Thao|Nu|04/02/2006|Dong Thap
+080206800026|Phan Hoang Tai|Nam|11/04/2006|Long An
+094307078320|Dang Thi Kim Tien|Nu|12/02/2007|Soc Trang
+089307356707|Nguyen Phuong Trang|Nu|08/09/2007|An Giang
+068307496758|Ha Diem Thanh Thu|Nu|24/04/2007|Lam Dong
+070307065317|Tran Phuong Tam|Nu|16/11/2007|Binh Phuoc
+089207775615|Quach Ngoc Tai|Nam|03/09/2007|An Giang
+048307289282|Tran Bao Trinh|Nu|03/12/2007|Da Nang
+054307787090|Thai Thuy Trang|Nu|15/05/2007|Phu Yen
+083207824962|Cao Minh Huu Trung|Nam|01/08/2007|Ben Tre
+087206735950|Ha Quoc Nhat Tai|Nam|06/03/2006|Dong Thap
+060307423536|Ta Diem Tien|Nu|09/05/2007|Binh Thuan
+072207300443|Ngo Nhat Thang|Nam|06/10/2007|Tay Ninh
+031307430758|Bui Thi Bao Trinh|Nu|31/10/2007|Hai Phong
+079207116908|Vo Nhat Tuan|Nam|04/09/2007|TP Ho Chi Minh
+001207581146|Vu Minh Trung|Nam|09/01/2007|Ha Noi
+093306067607|Phan Kim Thao|Nu|11/10/2006|Hau Giang
+064207318225|Pham Anh Tuan|Nam|09/03/2007|Gia Lai
+094207810838|Ly Anh Tuan|Nam|19/10/2007|Soc Trang
+068206044117|Duong Hoang Tuan|Nam|21/07/2006|Lam Dong
+046207490156|Ly Ngoc Trung|Nam|03/08/2007|Hue
+087306206420|Vo Thuy Yen Thao|Nu|10/02/2006|Dong Thap
+031206729572|Le Dang Trung|Nam|04/09/2006|Hai Phong
+056306024935|Ho Thuy Trinh|Nu|12/03/2006|Khanh Hoa
+080206156466|Chau Hoang Tuan|Nam|30/01/2006|Long An
+038207715585|Ly Trung Thinh|Nam|25/12/2007|Thanh Hoa
+086206724677|Ha Trung Trung|Nam|16/06/2006|Vinh Long
+092206563884|Tran Nhat Tai|Nam|01/09/2006|Can Tho
+038307289012|Pham Thi Uyen|Nu|28/01/2007|Thanh Hoa
+086307748883|Chau Khanh Uyen|Nu|25/05/2007|Vinh Long
+072207290123|Hoang Van Vinh|Nam|15/10/2007|Tay Ninh
+093307153468|Ly Ngoc Kim Vy|Nu|07/02/2007|Hau Giang
+086207696864|Tran Ngoc Vinh|Nam|01/03/2007|Vinh Long
+089306507343|Huynh Thi Vy|Nu|28/08/2006|An Giang
+068206582798|Huynh Gia Vinh|Nam|20/02/2006|Lam Dong
+095306349815|Truong Diem Vy|Nu|05/02/2006|Bac Lieu
+064306643137|Le Thanh Van|Nu|26/07/2006|Gia Lai
+079306642772|Ta Thanh Van|Nu|05/02/2006|TP Ho Chi Minh
+048306838467|Duong Hong Vy|Nu|10/10/2006|Da Nang
+064206585351|Dang Trung Trung Vinh|Nam|08/12/2006|Gia Lai
+056307028322|Quach Tuong Tuong Van|Nu|21/03/2007|Khanh Hoa
+079206500600|Bui Anh Tuan Vinh|Nam|13/07/2006|TP Ho Chi Minh
+077207761276|Mai Cong Vinh|Nam|11/10/2007|Ba Ria - Vung Tau
+095306188657|Cao Bao Phuong Vy|Nu|27/02/2006|Bac Lieu
+082307446459|Duong Tuong Xuan|Nu|30/08/2007|Tien Giang
+095307223216|Vu Yen Xuan|Nu|27/07/2007|Bac Lieu
+064306723994|Quach Phuong Kim Xuan|Nu|23/06/2006|Gia Lai
+048307372945|Luong Diem Xuan|Nu|22/09/2007|Da Nang
+049307414878|Truong Gia Xuan|Nu|15/09/2007|Quang Nam
+042307572739|Quach Gia Xuan|Nu|02/08/2007|Ha Tinh
+056307301234|Vu Thi Yen|Nu|02/05/2007|Khanh Hoa
+066306531236|Huynh Ngoc Phuong Yen|Nu|21/11/2006|Dak Lak
+091307060430|Quach Ngoc Yen|Nu|10/07/2007|Kien Giang
+001307017401|Thai Thanh Yen|Nu|08/03/2007|Ha Noi
+087306672247|Do Tuong Yen|Nu|06/02/2006|Dong Thap
+092306470622|Le Thi Yen|Nu|16/08/2006|Can Tho

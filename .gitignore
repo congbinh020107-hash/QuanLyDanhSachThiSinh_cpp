@@ -1,0 +1,8 @@
+*.exe
+*.o
+*.out
+*.gch
+*.tmp
+app
+HashTable
+.vscode/
